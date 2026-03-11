@@ -1,0 +1,9 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1773216545
+::res://materials/::1773211550
+::res://materials/shaderMaterials/::1773211554
+new_shader.gdshader::Shader::6605139749647237513::1773210295::0::1::::<><><>0<>0<><>::
+::res://scenes/::1773211628
+csg_combiner_3d.tscn::PackedScene::6196844360589453044::1773211628::0::1::::<><><>0<>0<><>::uid://c1dtxl1ib11q8::::res://materials/shaderMaterials/new_shader.gdshader<>uid://buarja67m5a01::::res://scripts/Player.cs
+::res://scripts/::1773216388
+Player.cs::CSharpScript::3791245866836009180::1773216388::0::1::::<>CharacterBody3D<><>0<>0<><>::

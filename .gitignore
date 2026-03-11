@@ -1,0 +1,26 @@
+# Godot-specific ignores
+.godot/                # The massive metadata/import folder (Godot 4+)
+*.import               # Optional: see note below
+export_preset.cfg      # Contains export configurations (and sometimes secrets)
+
+# Imported assets (if you want Godot to re-import them on each machine)
+.import/               # Godot 3.x equivalent of .godot/
+
+# Build artifacts
+bin/
+build/
+*.gen.cpp
+*.gen.h
+
+# Mono/C# specific (if using the .NET version)
+.mono/
+*.sln
+*.csproj
+*.glue.cc
+*.glue.h
+.vs/
+
+# System/Tooling ignores
+.DS_Store              # macOS
+Thumbs.db              # Windows
+*.log                  # Log files

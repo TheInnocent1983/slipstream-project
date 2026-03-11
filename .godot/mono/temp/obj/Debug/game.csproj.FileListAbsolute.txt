@@ -1,0 +1,17 @@
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\obj\Debug\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\obj\Debug\game.AssemblyInfoInputs.cache
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\obj\Debug\game.AssemblyInfo.cs
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\bin\Debug\game.deps.json
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\bin\Debug\game.runtimeconfig.json
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\bin\Debug\game.dll
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\bin\Debug\game.pdb
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\obj\Debug\game.csproj.Up2Date
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\obj\Debug\game.dll
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\obj\Debug\refint\game.dll
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\obj\Debug\game.pdb
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\obj\Debug\game.genruntimeconfig.cache
+C:\Users\ab_baxodirov\Documents\game\.godot\mono\temp\obj\Debug\ref\game.dll
