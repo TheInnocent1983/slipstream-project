@@ -14,8 +14,6 @@ build/
 
 # Mono/C# specific (if using the .NET version)
 .mono/
-*.sln
-*.csproj
 *.glue.cc
 *.glue.h
 .vs/
