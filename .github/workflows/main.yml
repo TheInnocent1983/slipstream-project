@@ -44,3 +44,6 @@ jobs:
         with:
           name: Windows-Build
           path: builds/windows/
+
+      - name: create-build-dir
+        run: mkdir -p builds/linux builds/windows
