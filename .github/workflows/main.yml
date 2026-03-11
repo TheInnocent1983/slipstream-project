@@ -3,7 +3,7 @@ on: [push, pull_request]
 
 jobs:
   export-game:
-    runs-runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     name: Export Game
     steps:
       - name: checkout
