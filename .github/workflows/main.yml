@@ -3,7 +3,7 @@ on: [push, pull_request]
 
 jobs:
   export-game:
-    runs-on: ubuntu-latest
+    runs-runs-on: ubuntu-latest
     name: Export Game
     steps:
       - name: checkout
@@ -28,7 +28,7 @@ jobs:
           name: Linux-Build
           path: builds/linux/
 
-          - name: godot-windows-export
+      - name: godot-windows-export
         uses: firebelley/godot-export@v5.2.1
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -37,7 +37,6 @@ jobs:
           godot_export_templates_download_url: https://github.com/godotengine/godot/releases/download/4.2.1-stable/Godot_v4.2.1-stable_mono_export_templates.tpz
           relative_project_path: ./
           archive_output: true
-          # Note the name change here to match the preset
           use_preset_export_path: true
           export_preset_name: "Windows Desktop"
 
